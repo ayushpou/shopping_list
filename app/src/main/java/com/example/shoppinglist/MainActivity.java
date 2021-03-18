@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
         item_8 = findViewById(R.id.txtItemEight);
         item_9 = findViewById(R.id.txtItemNine);
         item_10 = findViewById(R.id.txtItemTen);
-        location = findViewById(R.id.location_text);
+
     }
 
     public void openItems(View view) {
